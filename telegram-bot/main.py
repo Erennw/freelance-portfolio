@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # ─── Bot Configuration ───
-BOT_TOKEN = "8727309809:AAGoXDtUBx7iwbHmEJ4s3W_HNQBFxkyRH0k"
+BOT_TOKEN = "" #Add your token
 
 
 # ─── /start Command ───
